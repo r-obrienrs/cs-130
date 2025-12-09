@@ -1,0 +1,10 @@
+
+DAY_OF_WEEK,Description,Sum(CANCELLED)
+"1","Monday",9995
+"2","Tuesday",8901
+"3","Wednesday",9297
+"4","Thursday",11705
+"5","Friday",10143
+"6","Saturday",6508
+"7","Sunday",10558
+"All Rows","All Rows (including those not displayed)",67107

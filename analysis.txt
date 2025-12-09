@@ -1,8 +1,0 @@
-analysis notebook
-
-new_list = []
-for line in open(fight-songs.csv):
-    cleaned_line = line.strip()
-    cleaned_list = line.split(',')
-    new_list.append(cleaned_list)
-

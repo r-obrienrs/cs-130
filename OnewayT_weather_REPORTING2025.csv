@@ -1,0 +1,10 @@
+
+MONTH,Description,Max(WEATHER_DELAY)
+"1","January",1765
+"2","February",1397
+"3","March",1457
+"4","April",1273
+"5","May",1752
+"6","June",1458
+"7","July",1817
+"All Rows","All Rows (including those not displayed)",1817

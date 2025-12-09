@@ -1,0 +1,17 @@
+Latest available 2025 data is July  
+UNIQUE_CARRIER,Description,Sum(MISHANDLED_BAGGAGE)
+"AA","American Airlines Inc.",449090
+"AS","Alaska Airlines Inc.",78218
+"B6","JetBlue Airways",24352
+"DL","Delta Air Lines Inc.",263471
+"F9","Frontier Airlines Inc.",20489
+"G4","Allegiant Air",3504
+"HA","Hawaiian Airlines Inc.",16904
+"MQ","Envoy Air",42343
+"NK","Spirit Air Lines",22404
+"OH","PSA Airlines Inc.",41413
+"OO","SkyWest Airlines Inc.",98964
+"UA","United Air Lines Inc.",347699
+"WN","Southwest Airlines Co.",280438
+"YX","Republic Airline",29968
+"All Rows","All Rows (including those not displayed)",1719257

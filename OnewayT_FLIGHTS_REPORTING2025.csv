@@ -1,0 +1,10 @@
+
+MONTH,Description,Sum(FLIGHTS)
+"1","January",539747
+"2","February",504884
+"3","March",600872
+"4","April",583950
+"5","May",605648
+"6","June",611575
+"7","July",631428
+"All Rows","All Rows (including those not displayed)",4078104
