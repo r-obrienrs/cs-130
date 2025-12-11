@@ -1,7 +1,7 @@
 # Ariline Analysis
-Computer Science 130 
-Rory O'Brien
-Professor Bopp
+|Computer Science 130| 
+|Rory O'Brien|
+
 
 ## The 1st Attempt
 My intial research delt not with airlines, which I had no idea I was going to choose, but with university fight songs. The data offered on university fight songs happens to be rather sparse, so there wasn't much digging to be done. After wasting time searching for any meaningful analysis one could do on the subject of university fight songs, I chose to forgo the topic entirely. I searched for topics and landed upon airlines. I decided to dive into the world of airline data, but to my surprise, I found that the pool of airline data was almost as shallow as puddle for fight songs. The material I did sift through was not very helpful either. There were roughly three different sets of data to draw from and none of them related to the others. One had all the statistics for various Indian airlines from 1995-1996, which did include some interesting categories like death rate per airline, but I didn't see how Indian airline statistics from the 90s could relate to delayed flights out of Arizona in the 2000s. The third data set  also pertained to Indian airlines, but this set of data was clearly miscollected/miscalculated. The comments under this last data set pointed out the errors in the data and asked how an airline could have an average capacity of 3,000 passengers per flight. So, I decided to get out of that pool and find a new one. 
@@ -17,6 +17,7 @@ Once I finally narrowed my focus, I began collecting the data I thought could be
 The graph doesn't look like much. The bars are barely different from one another, but that tells us a good deal. The flights that are scheduled in the U.S. take off when they need to, and the month you choose to fly doesn't seem to matter as all of the months are hovering at well over 90% efficiency. The only month you might have to watch out for is January. This data didn't really surprise me so I went back and checked what the percentage was in 2024. For the most part there were hardly any change in cancelled flights, except for December, January, and February. Those three months had thousands of more cancelled flights than the rest. I checked 2023 and 2022 as well. The cancelled flights in 2023 had the same pattern, but 2022 had less cancelled flights in those particular months. I kept going down this trail and found that 2016 and 2015 also had a significant up tick in cancelled flights from December through February. What do 2015-2016 and 2023-2024 have in common? They were all El Nino years. When the El Nino weather patterns come through the U.S. they wreak havoc on the airlines every so often.
 
 After realizing that El Nino was having a significant effect, I continued to look into the affect of weather in general.
+
 ![A pie chart that displays the number of flights delayed by month](C:\Users\rorys\OneDrive - St. Bonaventure University\CS-130L\pie.png)
 
 The weather data in general supported the findings from cancelled flights. The winter months had the largest amount of delayed flights in every year I checked. I did find that in years without El Nino the spring months also had their fair share of weather delays, it's just that in El Nino years the winter months shadow the spring. August also had periodic flashes of large delays. It wasn't until I looked at 2005 that I realized that hurricanes were clearly affecting air travel. The data set for 2005 had a special note about Hurricane Katrina that tipped me off to why the months around hurricane season saw an increase in delays.
